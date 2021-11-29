@@ -6,13 +6,12 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently trainer and freelancer for various companies<br>
-✔ I’m currently learning about **machine learning in ML.NET and Tensorflowjs**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source ML.NET and Tensorflowjs projects**<br>
+✔ I’m currently learn dotnet<br>
+✔ I’m currently working for compaines<br>
+✔ I’m looking to collaborate with any **Open - Source projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer for sure 😉<br>
 ✔ Real fact : *I Always try to LEARN and SHARE* 😎<br><br><br><br>
-⚠ **Training Materials has been moved to 👉https://github.com/Training-by-Chandan/**  😎  
-⚠ **Demo Materials has been moved to 👉https://github.com/Demo-by-Chandan/**   
+
 <br><br><br><br>
 
 <p align='center'>
