@@ -1,8 +1,6 @@
-### Hi there 👋   
-Wanna see my blog  : https://bibashsitoula0.github.io/ 
-
-🕸 **Find me 👉 https://bibashsitoula0.github.io/** 🕸  
-💻 **A utility tool I have been working on with Angular and firebase : 👉https://util.chandanbhagat.com.np**   
+### Hi , I am Bibash Sitoula 👋
+💻 **I am intersted in dotnet**   
+🕸 **Find me 👉 https://bibashsitoula0.github.io/** 🕸 
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
