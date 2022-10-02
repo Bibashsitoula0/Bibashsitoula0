@@ -1,5 +1,5 @@
 ### Hi , I am Bibash Sitoula 👋
-💻 **I am intersted in dotnet**   
+💻 **I am intersted in Backen & Fronted**   
 🕸 **Find me 👉 https://bibashsitoula0.github.io/** 🕸 
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
