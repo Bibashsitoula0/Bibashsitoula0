@@ -45,7 +45,9 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c27faf5c5f503dae2aadda8171178a26d0b35072e175f8c2dbb98737bc1a7eea/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572"><img src="https://camo.githubusercontent.com/c27faf5c5f503dae2aadda8171178a26d0b35072e175f8c2dbb98737bc1a7eea/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" style="max-width: 100%;"></a>
 </p>
 
-<p dir="auto"><a href="https://github.com/Bibashsitoula0/github-readme-stats"><img src="https://camo.githubusercontent.com/63143de4ae99ed8a0a2c453038f6debb7ba77815dceacc97a617f00d6fd418af/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d706965" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bibashsitoula0&amp;layout=pie" style="max-width: 100%;"></a></p>
+<p dir="auto">
+  <a href="https://github.com/Bibashsitoula0/github-readme-stats">
+    <img src="https://camo.githubusercontent.com/63143de4ae99ed8a0a2c453038f6debb7ba77815dceacc97a617f00d6fd418af/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d706965" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bibashsitoula0&amp;layout=pie" style="max-width: 100%;"></a></p>
 
 
 
@@ -63,6 +65,7 @@
 
 </p>
 
-<img scr="https://github.com/Bibashsitoula0/Bibashsitoula0/blob/output/github-contribution-grid-snake.svg">
+ <a href="https://github.com/Bibashsitoula0/Bibashsitoula0/blob/output/github-contribution-grid-snake.svg">
+ </a>
 
 
