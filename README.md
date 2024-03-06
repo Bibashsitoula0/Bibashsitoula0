@@ -47,8 +47,6 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c27faf5c5f503dae2aadda8171178a26d0b35072e175f8c2dbb98737bc1a7eea/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572"><img src="https://camo.githubusercontent.com/c27faf5c5f503dae2aadda8171178a26d0b35072e175f8c2dbb98737bc1a7eea/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" style="max-width: 100%;"></a>
 </p>
 
-
-<br><br>
 <br><br>
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bibashsitoula0&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Bibashsitoula0 Github Stats">
