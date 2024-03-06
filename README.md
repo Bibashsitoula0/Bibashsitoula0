@@ -35,4 +35,4 @@
    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Bibashsitoula0&theme=juicyfresh&no-bg=true" alt="Bibashsitoula0" />  
 
 </p>
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg
