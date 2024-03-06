@@ -61,6 +61,6 @@
 
 </p>
 
-![Snake animation] (https://github.com/{{Bibashsitoula0}}/{{Bibashsitoula0}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation] <a href="https://github.com/{{Bibashsitoula0}}/{{Bibashsitoula0}}/blob/output/github-contribution-grid-snake.svg"></a>
 
 
