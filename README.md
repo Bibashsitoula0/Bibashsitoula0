@@ -58,4 +58,7 @@
    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Bibashsitoula0&theme=juicyfresh&no-bg=true" alt="Bibashsitoula0" />  
 
 </p>
-https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg
+
+<img scr="https://github.com/Bibashsitoula0/Bibashsitoula0/blob/output/github-contribution-grid-snake.svg">
+
+
