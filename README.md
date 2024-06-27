@@ -14,7 +14,7 @@
 <br>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/31b38485468202aa40beb977efbf25af02cea4b7ed176a1c77bbe09151d48e96/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f32304e4c4d426d30426b554f774e6c6a77762f67697068792e676966" data-canonical-src="https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 
 <p align="left" dir="auto">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" alt="vscode" width="45" height="45" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;"></a>
