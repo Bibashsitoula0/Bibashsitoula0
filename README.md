@@ -17,6 +17,16 @@
 ✔ Real fact: *I Always try to LEARN and SHARE* 😎<br>
 <br>
 
+# Available Packages
+
+## .NET Packages on NuGet
+
+| Package Name                      | Description                                                   | Download Link   | Status         |
+|------------------------------------|--------------------------------------------------------------|-----------------|----------------|
+| **DynamicFormBuilder**  | Dynamically creating forms with full validation, styling, and layout..  | [NuGet](https://www.nuget.org/packages/DynamicFormBuilder) | ![passing](https://img.shields.io/badge/status-passing-green)  |
+
+
+
 ## 🛠️ Skills & Tools
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
