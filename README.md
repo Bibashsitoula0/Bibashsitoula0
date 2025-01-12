@@ -28,7 +28,9 @@
 
 
 ## Chrome Extension
-![Extension](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+
+![image](https://github.com/user-attachments/assets/0038158d-a2b0-4232-bc30-b8f7761da1a6)
+![Extension](https://github.com/Bibashsitoula0/Table-Data-Export-Search-Extension)
 
 ## 🛠️ Skills & Tools
 ### Languages
