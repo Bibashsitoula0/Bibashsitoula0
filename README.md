@@ -27,7 +27,8 @@
 | **DynamicFormBuilder** | Dynamically creating forms with full validation, styling, and layout. | [NuGet](https://www.nuget.org/packages/DynamicFormBuilder) | ![passing](https://img.shields.io/badge/status-passing-green) ![downloads](https://img.shields.io/nuget/dt/DynamicFormBuilder) |
 
 
-
+## Chrome Extension
+![Extension](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 
 ## 🛠️ Skills & Tools
 ### Languages
