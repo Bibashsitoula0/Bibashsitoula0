@@ -1,7 +1,7 @@
 ### Hi, I am Bibash Sitoula 👋
 
 💻 **I am interested in Backend & Frontend Development**   
-🕸 **Find me 👉 [My Portfolio](https://bibashsitoula0.github.io/)** 🕸 
+🕸 **Find me 👉 [My Portfolio](https://github.com/Bibashsitoula0)** 🕸 
 
 <br>
 
