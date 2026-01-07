@@ -65,19 +65,6 @@
 - **Short-term**: Improve .NET skills and contribute to more open-source projects.
 - **Long-term**: Become a lead full-stack developer and work on impactful tech projects.
 
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bibashsitoula0&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bibashsitoula0&theme=dracula" alt="GitHub Streak" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bibashsitoula0&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" width="300" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bibashsitoula0&theme=dracula" alt="GitHub Trophies" />
-</p>
 
 <h3 align="center">Favorite Quote:</h3>
 <p align="center">
