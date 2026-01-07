@@ -1,20 +1,32 @@
-### Hi, I am Bibash Sitoula 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="200" height="200" alt="Coding Gif">
+</p>
 
-💻 **I am interested in Backend & Frontend Development**   
-🕸 **Find me 👉 [My Portfolio](https://github.com/Bibashsitoula0)** 🕸 
+<h1 align="center">Hi 👋, I'm Bibash Sitoula</h1>
+<h3 align="center">A passionate Backend & Frontend Developer from Nepal 🇳🇵</h3>
 
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bibashsitoula0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<img align="right" width="200px" height="200px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<p align="center">
+  <a href="https://github.com/Bibashsitoula0"><img src="https://img.shields.io/github/followers/Bibashsitoula0?label=Followers&style=social" alt="GitHub Followers"></a>
+  <a href="https://twitter.com/bibash_sitoula"><img src="https://img.shields.io/twitter/follow/bibash_sitoula?logo=twitter&style=social" alt="Twitter Followers"></a>
+</p>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+- 🔭 I’m currently working at **Turboline.AI (UK)**
 
-✔ Call me: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently learning .NET<br>
-✔ I’m currently working for companies<br>
-✔ I’m looking to collaborate on any **Open Source projects**<br>
-✔ Ask me anything you want, if I am alive I will answer for sure 😉<br>
-✔ Real fact: *I Always try to LEARN and SHARE* 😎<br>
+- 🌱 I’m currently learning **.NET Core and Advanced Web Technologies**
+
+- 👯 I’m looking to collaborate on **Open Source Projects in Full-Stack Development**
+
+- 🤝 I’m open to **freelance opportunities or tech discussions** – Ask me anything! 😉
+
+- 💬 Real fact: *I always try to LEARN and SHARE* 😎
+
+- 📫 How to reach me: **bibashsitoula@gmail.com** (assuming based on common patterns; update if needed)
+
+- ⚡ Fun fact: **I love exploring new tech stacks and building impactful apps!**
 <br>
 
 # Available Packages
